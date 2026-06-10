@@ -1,0 +1,5 @@
+Candidate 7
+Python Developer
+Skills: Python, SQL, AWS, Docker
+Experience: 8 years
+Education: B.Tech Computer Science
